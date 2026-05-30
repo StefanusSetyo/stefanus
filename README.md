@@ -15,16 +15,8 @@ Saya adalah seorang **Network Engineer & SysAdmin** yang gemar antara infrastruk
 | :--- | :--- |
 | **DevOps** | `Docker` `Kubernetes` |
 | **Networking & Cloud Providers** | `Cisco` `MikroTik` `Fortinet` `AWS` `DigitalOcean`|
-| **Languages & Scripting** | `Python` `Bash` `HTML`'|
-  
----
-
-## 📈 Statistik GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_GITHUB_KAMU]&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME_GITHUB_KAMU]&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
+| **Languages & Scripting** | `Python` `Bash` `HTML` `PHP`|
+| **Databases** | `MySQL` `MariaDB` `Cassandra` `PostgreSQL` `MongoDB`|
 
 ---
 
